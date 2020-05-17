@@ -1,0 +1,3 @@
+function test() {
+	//code here
+}
